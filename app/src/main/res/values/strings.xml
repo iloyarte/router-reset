@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RouterReset</string>
+    <string name="button_reset">RESET</string>
+</resources>
